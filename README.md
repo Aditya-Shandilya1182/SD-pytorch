@@ -1,1 +1,1 @@
-Stable Diffusion implementation from scratch in PyTorch for education purposes. 
+Stable Diffusion implementation from scratch in PyTorch for educational purposes. 
